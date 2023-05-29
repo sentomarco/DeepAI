@@ -12,9 +12,6 @@ DeepAI is a collection of projects that explore various aspects of Deep Learning
 **Natural Language Processing (NLP):**    
     NLP is a crucial area of AI that deals with understanding and processing human language. The NLP projects in this collection demonstrate techniques such as sentiment analysis, text classification, named entity recognition, and language translation using deep learning models like recurrent and transformer-based neural networks.
   
-**Computer Vision:**  
-    Computer Vision projects within the repository focus on advanced techniques for image and video analysis. They cover topics like image segmentation, object recognition, semantic image understanding, and video action recognition. Deep learning models and architectures are employed to enable accurate interpretation and understanding of visual data.  
-  
 **GANs (Generative Adversarial Networks):**  
     The GAN projects explore the exciting field of generative modeling. They showcase how GANs can generate realistic and high-quality synthetic data, such as images, text, and even music. Applications include image synthesis, style transfer, text generation, and anomaly detection.  
   
